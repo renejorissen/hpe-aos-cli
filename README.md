@@ -1,0 +1,2 @@
+# hpe-aos-cli
+The script is used to execute a CLI command on one or multiple switches. The script use switches.txt as input file to login to one or multiple switches. When the scripts is executed the script asks for username and password and which command to execute. The status codes of the different sections is displayed and the output from the CLI command is send to file. The file name syntax will be SW&lt;IP>_&lt;sw hostname>_&lt;cli command>.txt
