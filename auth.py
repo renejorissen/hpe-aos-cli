@@ -11,6 +11,7 @@ import urllib3
 import getpass
 import json
 import base64
+import pprint
 
 urllib3.disable_warnings(urllib3.exceptions.InsecureRequestWarning)
 
@@ -24,7 +25,7 @@ credentials = {
                "password" : password
                 }
 
-ip_address = "10.10.1.3"
+ip_address = "10.10.1.2"
 url = 'https://{}/rest/v3/'.format(ip_address)
 
 
@@ -42,6 +43,8 @@ else:
 cookie = get_cookie.json()['cookie']
 headers = {"Cookie" : cookie}
 
+get_system = requests.get(url + 'system', headers=headers, verify=False, timeout=2)
+pprint.pprint(get_system.json())
 
 ##############################################################
 ## LOGOUT AND GOODBYE
