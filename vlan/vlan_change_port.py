@@ -1,7 +1,7 @@
 ##############################################################
 ##
 ##
-## CHANGE PORT MODE IN A VLAN
+## CHANGE PORT MODE IN A VLAN.
 ## ADD SWITCH IP ADDRESS TO switches.txt
 ## SCRIPT ASKS FOR CREDENTIALS AND VLAN AND PORT INPUT
 ##
