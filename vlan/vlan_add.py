@@ -1,7 +1,7 @@
 ##############################################################
 ##
 ##
-## ADD VLAN TO MULTIPLE SWITCH.
+## ADD VLAN TO MULTIPLE SWITCH
 ## ADD SWITCH IP ADDRESS TO switches.txt
 ## SCRIPT ASKS FOR CREDENTIALS AND VLAN INPUT
 ##
