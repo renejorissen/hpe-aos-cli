@@ -1,5 +1,6 @@
 ##############################################################
 ## RUN CLI COMMAND ON ONE OR MORE SWITCHES AND WRITE OUTPUT TO FILE
+##
 ## ADD SWITCH IP's TO SWITCHES.TXT
 ##############################################################
 import requests
