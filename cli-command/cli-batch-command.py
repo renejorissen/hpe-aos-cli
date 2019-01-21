@@ -2,6 +2,7 @@
 ## RUN CLI COMMAND ON ONE OR MORE SWITCHES AND WRITE OUTPUT TO FILE
 ## ADD SWITCH IP's TO SWITCHES.TXT
 ##
+##
 ## USEFULL LINK: https://community.arubanetworks.com/t5/Forum-Fran%C3%A7ais/How-to-REST-API-sur-ArubaOS-Switch/td-p/305020
 ##############################################################
 import requests
