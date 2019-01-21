@@ -1,7 +1,7 @@
 ##############################################################
 ##
 ##
-## ADD A PORT TO A VLAN.
+## ADD A PORT TO A VLAN
 ## ADD SWITCH IP ADDRESS TO switches.txt
 ## SCRIPT ASKS FOR CREDENTIALS AND VLAN AND PORT INPUT
 ##
