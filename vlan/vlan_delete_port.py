@@ -1,7 +1,7 @@
 ##############################################################
 ##
 ##
-## DELETE PORT FROM A VLAN
+## DELETE PORT FROM A VLAN.
 ## ADD SWITCH IP ADDRESS TO switches.txt
 ## SCRIPT ASKS FOR CREDENTIALS AND VLAN AND PORT INPUT
 ##
