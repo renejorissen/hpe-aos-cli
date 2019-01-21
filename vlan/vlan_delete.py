@@ -1,7 +1,7 @@
 ##############################################################
 ##
 ##
-## DELETE VLAN ON MULTIPLE SWITCH.
+## DELETE VLAN ON MULTIPLE SWITCH
 ## ADD SWITCH IP ADDRESS TO switches.txt
 ## SCRIPT ASKS FOR CREDENTIALS AND VLAN INPUT
 ##
